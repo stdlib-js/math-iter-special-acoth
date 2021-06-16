@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-iter-special-acoth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create an iterator which computes the inverse hyperbolic cotangent of each iterated value.",
   "license": "Apache-2.0",
   "author": {
