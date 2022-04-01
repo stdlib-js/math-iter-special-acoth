@@ -1,0 +1,42 @@
+{
+  "name": "@stdlib/math-iter-special-acoth",
+  "version": "0.0.0",
+  "description": "Create an iterator which computes the inverse hyperbolic cotangent of each iterated value.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-iter-special-acoth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "math.acoth",
+    "hyperbolic",
+    "inverse",
+    "tangent",
+    "cotangent",
+    "acot",
+    "cot",
+    "coth",
+    "arc",
+    "arccotangent",
+    "trig",
+    "trigonometry",
+    "radians",
+    "iterator",
+    "iterable",
+    "iterate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
