@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-30)
+## Unreleased (2026-06-03)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`2ef6b64`](https://github.com/stdlib-js/stdlib/commit/2ef6b64a00646808c45bd211bb421a52eabd0a41) - **docs:** fix TSDoc issues in several `math/iter` declarations [(#12462)](https://github.com/stdlib-js/stdlib/pull/12462) _(by Philipp Burckhardt, Athan Reines)_
 -   [`e090426`](https://github.com/stdlib-js/stdlib/commit/e0904262cee8ac4f036d0f74f6628f8ce95a16d0) - **bench:** refactor to use string interpolation in `math/iter` [(#11382)](https://github.com/stdlib-js/stdlib/pull/11382) _(by Karan Anand)_
 
 </details>
@@ -24,9 +25,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
